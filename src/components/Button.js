@@ -14,7 +14,7 @@ const styles = StyleSheet.create({
   },
   operationButton: {
     color: '#fff',
-    backgroundColor: '#fa8231',
+    backgroundColor: '#669',
   },
   buttonDouble: {
     width: (Dimensions.get('window').width / 4) * 2,
